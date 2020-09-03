@@ -1,0 +1,13 @@
+--2020-09-02 22:19:20--  https://data.ndw.nu/api/rest/static-road-data/traffic-signs/v1/events?offset=2020-07-27T12:34:56.123Z
+Resolving data.ndw.nu (data.ndw.nu)... 51.105.100.156
+Connecting to data.ndw.nu (data.ndw.nu)|51.105.100.156|:443... connected.
+WARNING: cannot verify data.ndw.nu's certificate, issued by ‘CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+HTTP request sent, awaiting response... 200 
+Length: unspecified [application/json]
+Saving to: ‘events?offset=2020-07-27T12:34:56.123Z’
+
+          events?of     [<=>                 ]       0  --.-KB/s               events?offset=2020-     [ <=>                ]  62.93K  --.-KB/s    in 0.03s   
+
+2020-09-02 22:19:21 (2.40 MB/s) - ‘events?offset=2020-07-27T12:34:56.123Z’ saved [64445]
+
